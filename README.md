@@ -1,136 +1,253 @@
-# AI/ML Prerequisite Assignment
+# AI/ML Prerequisite Refresher
 
-This repository contains my completed Colab notebooks and video explanations for the AI/ML prerequisite assignment.
+This repository contains my completed notebooks and video explanations for the AI/ML prerequisite refresher assignment.
 
-Each notebook has been executed with the relevant inputs and outputs saved. The corresponding YouTube videos explain the important code blocks, outputs, and key concepts demonstrated in each notebook.
+The goal of this assignment is to review the fundamental programming, mathematical, and machine learning concepts required for the course.
+
+Each notebook has been executed with the relevant inputs and outputs saved. The corresponding YouTube videos focus on the important code blocks, outputs, and key concepts demonstrated in each notebook.
+
+---
+
+## Repository Structure
+
+```text
+ai-ml-prerequisite-refresher/
+│
+├── README.md
+│
+├── 01_programming_foundations/
+├── 02_linear_algebra/
+├── 03_probability_statistics/
+├── 04_calculus/
+└── 05_foundations_of_learning/
+```
+
+---
 
 ## Neural Network Playground
 
 **Neural Network Playground:**
 https://dlmastery.github.io/neural-network-playground/
 
-This interactive playground demonstrates the basic behavior and structure of neural networks.
+The Neural Network Playground provides an interactive visualization of how a neural network learns. It can be used to explore concepts such as inputs, hidden layers, neurons, activation, and the decision boundary produced during training.
 
 ---
 
-## Python, NumPy, Pandas, and Matplotlib
+# 1. Programming Foundations
 
-### 1. Introduction to Python
+This section reviews the Python and data-processing tools commonly used in AI and machine learning.
 
-**Notebook:** [Introduction to Python](./final_Intro_to_Python_for_Machine_Learning.ipynb)
+## 1.1 Introduction to Python for Machine Learning
 
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
+**Notebook:**
+[Introduction to Python for Machine Learning](./01_programming_foundations/final_Intro_to_Python_for_Machine_Learning.ipynb)
 
-### 2. Introduction to NumPy
-
-**Notebook:** [Introduction to NumPy](./final_numpy_foundations_for_deep_learning.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 3. Introduction to Pandas
-
-**Notebook:** [Introduction to Pandas](./final_pandas_zero_to_hero.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 4. Introduction to Matplotlib
-
-**Notebook:** [Introduction to Matplotlib](./final_matplotlib_zero_to_hero.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
 
 ---
 
-## Linear Algebra
+## 1.2 NumPy Foundations for Deep Learning
 
-### 5. Basic Linear Algebra - Part 1
+**Notebook:**
+[NumPy Foundations for Deep Learning](./01_programming_foundations/final_numpy_foundations_for_deep_learning.ipynb)
 
-**Notebook:** [Linear Algebra Part 1](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 6. Basic Linear Algebra - Part 2
-
-**Notebook:** [Linear Algebra Part 2](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 7. Basic Linear Algebra - Part 3
-
-**Notebook:** [Linear Algebra Part 3](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
 
 ---
 
-## Probability and Statistics
+## 1.3 Pandas Zero to Hero
 
-### 8. Introduction to Probability
+**Notebook:**
+[Pandas Zero to Hero](./01_programming_foundations/final_pandas_zero_to_hero.ipynb)
 
-**Notebook:** [Introduction to Probability](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 9. Introduction to Statistics
-
-**Notebook:** [Introduction to Statistics](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 10. Data Science Probability and Statistics - Part 1
-
-**Notebook:** [Probability and Statistics Part 1](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 11. Data Science Probability and Statistics - Part 2
-
-**Notebook:** [Probability and Statistics Part 2](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 12. Data Science Probability and Statistics - Part 3
-
-**Notebook:** [Probability and Statistics Part 3](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
 
 ---
 
-## Calculus
+## 1.4 Matplotlib Zero to Hero
 
-### 13. Introduction to Calculus - Part 1
+**Notebook:**
+[Matplotlib Zero to Hero](./01_programming_foundations/final_matplotlib_zero_to_hero.ipynb)
 
-**Notebook:** [Calculus Part 1](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 14. Introduction to Calculus - Part 2
-
-**Notebook:** [Calculus Part 2](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
-
-### 15. Introduction to Calculus - Part 3
-
-**Notebook:** [Calculus Part 3](NOTEBOOK_FILENAME_HERE.ipynb)
-
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
 
 ---
 
-## Foundations of Learning
+# 2. Linear Algebra
 
-### 16. Foundations of Learning
+This section reviews vectors, matrices, matrix operations, and the linear algebra concepts used in machine learning and deep learning.
 
-**Notebook:** [Foundations of Learning](NOTEBOOK_FILENAME_HERE.ipynb)
+## 2.1 Introduction to Linear Algebra
 
-**Video:** [YouTube Explanation](YOUTUBE_LINK_HERE)
+**Notebook:**
+[Introduction to Linear Algebra](./02_linear_algebra/final_intro_to_linear_algebra_zero_to_hero_for_ml.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+## 2.2 Linear Algebra for Deep Learning
+
+**Notebook:**
+[Linear Algebra for Deep Learning](./02_linear_algebra/linear_algebra_for_deep_learning.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+## 2.3 Foundations: Linear Algebra
+
+**Notebook:**
+[Foundations - Linear Algebra](./02_linear_algebra/final_foundations_2_linear_algebra.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+# 3. Probability and Statistics
+
+This section reviews probability and statistics concepts used to understand data, uncertainty, distributions, and machine learning models.
+
+## 3.1 Introduction to Probability
+
+**Notebook:**
+[Introduction to Probability](./03_probability_statistics/final_intro_to_probability_zero_to_hero_for_ml.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+## 3.2 Probability Fundamentals for Deep Learning
+
+**Notebook:**
+[Probability Fundamentals for Deep Learning](./03_probability_statistics/final_probability_fundamentals_for_deep_learning.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+## 3.3 Introduction to Statistics
+
+**Notebook:**
+[Introduction to Statistics](./03_probability_statistics/final_intro_to_statistics_zero_to_hero_for_ml.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+## 3.4 Statistics for Deep Learning
+
+**Notebook:**
+[Statistics for Deep Learning](./03_probability_statistics/final_statistics_for_deep_learning.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+## 3.5 Foundations: Probability
+
+**Notebook:**
+[Foundations - Probability](./03_probability_statistics/final_foundations_3_probability.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+# 4. Calculus
+
+This section reviews derivatives, gradients, and other calculus concepts that are important for optimization and learning in machine learning models.
+
+## 4.1 Introduction to Calculus
+
+**Notebook:**
+[Introduction to Calculus](./04_calculus/final_intro_to_calculus_zero_to_hero_for_ml.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+## 4.2 Calculus for Deep Learning
+
+**Notebook:**
+[Calculus for Deep Learning](./04_calculus/final_calculus_for_deep_learning.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+## 4.3 Foundations: Calculus
+
+**Notebook:**
+[Foundations - Calculus](./04_calculus/final_foundations_4_calculus.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+# 5. Foundations of Learning
+
+This section connects the programming and mathematical foundations to the basic idea of how a machine learning system learns from data.
+
+## 5.1 The Learning Machine
+
+**Notebook:**
+[The Learning Machine](./05_foundations_of_learning/final_foundations_1_the_learning_machine.ipynb)
+
+**Video Explanation:**
+[Watch on YouTube](YOUTUBE_LINK_HERE)
+
+---
+
+# Video Explanations
+
+Each notebook has a corresponding YouTube video.
+
+The videos focus on selected important code blocks rather than reading every line of code. Basic concepts are explained briefly, while more important AI/ML concepts and their outputs are discussed in greater detail.
+
+| #  | Topic                            | Video                        |
+| -- | -------------------------------- | ---------------------------- |
+| 1  | Introduction to Python           | [YouTube](YOUTUBE_LINK_HERE) |
+| 2  | NumPy Foundations                | [YouTube](YOUTUBE_LINK_HERE) |
+| 3  | Pandas                           | [YouTube](YOUTUBE_LINK_HERE) |
+| 4  | Matplotlib                       | [YouTube](YOUTUBE_LINK_HERE) |
+| 5  | Introduction to Linear Algebra   | [YouTube](YOUTUBE_LINK_HERE) |
+| 6  | Linear Algebra for Deep Learning | [YouTube](YOUTUBE_LINK_HERE) |
+| 7  | Foundations: Linear Algebra      | [YouTube](YOUTUBE_LINK_HERE) |
+| 8  | Introduction to Probability      | [YouTube](YOUTUBE_LINK_HERE) |
+| 9  | Probability Fundamentals         | [YouTube](YOUTUBE_LINK_HERE) |
+| 10 | Introduction to Statistics       | [YouTube](YOUTUBE_LINK_HERE) |
+| 11 | Statistics for Deep Learning     | [YouTube](YOUTUBE_LINK_HERE) |
+| 12 | Foundations: Probability         | [YouTube](YOUTUBE_LINK_HERE) |
+| 13 | Introduction to Calculus         | [YouTube](YOUTUBE_LINK_HERE) |
+| 14 | Calculus for Deep Learning       | [YouTube](YOUTUBE_LINK_HERE) |
+| 15 | Foundations: Calculus            | [YouTube](YOUTUBE_LINK_HERE) |
+| 16 | The Learning Machine             | [YouTube](YOUTUBE_LINK_HERE) |
 
 ---
 
 ## Notes
 
-All notebooks in this repository contain the executed code and saved outputs.
+* All notebooks have been executed and saved with their relevant outputs.
+* Interactive inputs used during execution are preserved where applicable.
+* Each notebook has a corresponding video explanation.
+* The video explanations focus on demonstrating understanding of the important code and underlying concepts.
+* The notebooks are organized by topic to make the repository easier to navigate.
 
-The video explanations focus on the important code blocks and fundamental concepts related to Python, NumPy, Pandas, Matplotlib, linear algebra, probability, statistics, calculus, and the foundations of machine learning.
+## Repository
+
+This repository contains all completed notebooks and links to their corresponding video explanations.
